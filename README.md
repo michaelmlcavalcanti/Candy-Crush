@@ -1,2 +1,6 @@
 # Candy Crush
-  Jogo feito em C no primeiro período na cadeira de LPI.
+  Universidade de Pernambuco
+  Engenharia da Computação
+  Linguagem de Programação Imperativa
+  Linguagem C
+  Michael Cavalcanti
