@@ -1,2 +1,2 @@
 # Candy Crush
- Jogo feito no primeiro período na cadeira de LPI
+  Jogo feito em Cno primeiro período na cadeira de LPI
